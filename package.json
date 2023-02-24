@@ -1,0 +1,17 @@
+{
+  "name": "latihan-rabbitmq",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "license": "MIT",
+  "author": "Muhammad Ajie Rizaldi",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
